@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Summary / about
+# About
 
 
 The target user is the developer itself.
